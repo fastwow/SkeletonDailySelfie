@@ -52,3 +52,18 @@ TASK 22: Rename the photo
 TASK 23: Change vie mode for PhotoListFragment(ListView or GridView)
 
 TASK 24: Sort by name and date
+
+task description
+--------
+
+Task has name and link to resource with more information
+Example of task:
+
+```java
+/**
+ * TODO TASK 15: Save flag into preference
+ *
+ * http://developer.android.com/training/basics/data-storage/shared-preferences.html
+ *
+ */
+```
