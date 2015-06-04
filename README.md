@@ -58,7 +58,7 @@ Task description
 
 Task has name and link to resource with more information
 
-Example task
+Example
 
 ```java
 /**
@@ -68,3 +68,12 @@ Example task
  *
  */
 ```
+
+Import GitHub Android project
+--------
+
+[Tutorial for Android Studio][1]
+[Tutorial for Eclipse][2]
+
+[1]http://maxrohde.com/2014/08/18/import-github-project-to-android-studio/
+[2]http://java.dzone.com/articles/android-%E2%80%93-import-projects-git
