@@ -53,11 +53,12 @@ TASK 23: Change vie mode for PhotoListFragment(ListView or GridView)
 
 TASK 24: Sort by name and date
 
-task description
+Task description
 --------
 
 Task has name and link to resource with more information
-Example of task:
+
+Example task
 
 ```java
 /**
