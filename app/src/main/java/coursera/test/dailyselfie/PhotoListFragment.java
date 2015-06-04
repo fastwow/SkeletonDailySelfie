@@ -78,7 +78,7 @@ public class PhotoListFragment extends ListFragment implements
     public Loader<Cursor> onCreateLoader(int arg0, Bundle arg1) {
 
         /**
-         * TODO TASK 3: Create new CursorLoader
+         * TODO TASK 3: Create new CursorLoader for load photo list
          *
          * http://developer.android.com/reference/android/content/CursorLoader.html
          *
@@ -104,7 +104,7 @@ public class PhotoListFragment extends ListFragment implements
 
         /**
          *
-         * TODO TASK 5: Set adapter for ListFragment
+         * TODO TASK 5: Set adapter for PhotoListFragment
          *
          * http://developer.android.com/reference/android/app/ListFragment.html
          *

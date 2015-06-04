@@ -14,15 +14,15 @@ Import GitHub Android project
 Main tasks
 --------
 
-TASK 1: Add photoPath to gallery
+TASK 1: Add photo to gallery
 
 TASK 2: Add PhotoListFragment into R.id.container
 
-TASK 3: Create new CursorLoader
+TASK 3: Create new CursorLoader for load photo list
 
 TASK 4: Swap new cursor into adapter when loader finished
 
-TASK 5: Set adapter for ListFragment
+TASK 5: Set adapter for PhotoListFragment
 
 TASK 6: Swap new cursor as null into adapter when loader reset
 
@@ -34,7 +34,7 @@ TASK 9: Load and resize big image without OutOfMemory error
 
 TASK 10: Create and show FullscreenPhotoDialogFragment with selected photo on click
 
-TASK 11: Save photo path as argument of Fragment
+TASK 11: Save photo path in argument of PhotoListFragment
 
 TASK 12: Get photo path from arguments bundle
 
@@ -53,15 +53,17 @@ TASK 18: Create daily selfie notification
 Additional tasks
 --------
 
-TASK 20: Add repeating alarm for our Broadcast Receiver  "DailySelfieNotificationReceiver" after boot device
+TASK 20: Add repeating alarm for our Broadcast Receiver  "DailySelfieNotificationReceiver" after restart device
 
-TASK 21: Remove and share listView item
+TASK 21: Remove a photo from list
 
-TASK 22: Rename the photo
+TASK 22: Rename a photo from list
 
-TASK 23: Change vie mode for PhotoListFragment(ListView or GridView)
+TASK 23: Share a photo from list
 
-TASK 24: Sort by name and date
+TASK 23: Change view mode for photo list(ListView or GridView)
+
+TASK 24: Sort photo list by name and date
 
 Task description
 --------

@@ -124,7 +124,7 @@ public class ImageUtil {
 	public void AddToGallery(Context context, String photoPath) {
 
 		/**
-		 * TODO TASK 1: Add photoPath to gallery
+		 * TODO TASK 1: Add photo to gallery
 		 * http://developer.android.com/training/camera/photobasics.html
 		 */
 	}

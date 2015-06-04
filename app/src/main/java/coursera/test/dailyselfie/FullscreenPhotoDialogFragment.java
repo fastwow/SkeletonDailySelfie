@@ -23,7 +23,7 @@ public class FullscreenPhotoDialogFragment extends DialogFragment {
 
         /*
 
-        TODO TASK 11: Save photo path as argument of Fragment
+        TODO TASK 11: Save photo path in argument of PhotoListFragment
 
         http://developer.android.com/reference/android/support/v4/app/Fragment.html#setArguments(android.os.Bundle)
 
