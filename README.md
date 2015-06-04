@@ -1,4 +1,8 @@
-# SkeletonDailySelfie
+SkeletonDailySelfie
+========
+
+Main tasks
+--------
 
 TASK 1: Add photoPath to gallery
 TASK 2: Add PhotoListFragment into R.id.container
@@ -18,3 +22,12 @@ TASK 15: Save flag into preference
 TASK 16: Get saved flag from preference
 TASK 17: Add repeating alarm for our BroadcastReceiver "DailySelfieNotificationReceiver"
 TASK 18: Create daily selfie notification
+
+Additional tasks
+--------
+
+TASK 20: Add repeating alarm for our Broadcast Receiver  "DailySelfieNotificationReceiver" after boot device
+TASK 21: Remove and share listView item
+TASK 22: Rename the photo
+TASK 23: Change vie mode for PhotoListFragment(ListView or GridView)
+TASK 24: Sort by name and date
