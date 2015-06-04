@@ -23,7 +23,7 @@ public class FullscreenPhotoDialogFragment extends DialogFragment {
 
         /*
 
-        TODO Save photo path as argument of Fragment
+        TODO TASK 11: Save photo path as argument of Fragment
 
         http://developer.android.com/reference/android/support/v4/app/Fragment.html#setArguments(android.os.Bundle)
 
@@ -38,7 +38,7 @@ public class FullscreenPhotoDialogFragment extends DialogFragment {
 
         /*
 
-          TODO Set fullscreen style for this dialog
+          TODO TASK 14: Set fullscreen style for dialog
          */
     }
 
@@ -51,12 +51,12 @@ public class FullscreenPhotoDialogFragment extends DialogFragment {
                 null);
 
         /**
-         * TODO Get photo path from arguments bundle
+         * TODO TASK 12: Get photo path from arguments bundle
          *
          * /
 
          /*
-         * TODO load image into our fullscreen imageView "mPhotoImageView"
+         * TODO TASK 13: load image into our fullscreen imageView "mPhotoImageView"
          *
          */
 

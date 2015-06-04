@@ -9,7 +9,7 @@ public class HelperUtil {
     public static void setReceiverAddedToAlarmManager(Context context, boolean flag) {
 
         /**
-         * TODO Save flag into preference
+         * TODO TASK 15: Save flag into preference
          *
          * http://developer.android.com/training/basics/data-storage/shared-preferences.html
          *
@@ -19,7 +19,7 @@ public class HelperUtil {
     public static boolean isReceiverAddedToAlarmManager(Context context) {
 
         /**
-         * TODO Get saved flag from preference
+         * TODO TASK 16: Get saved flag from preference
          *
          */
 

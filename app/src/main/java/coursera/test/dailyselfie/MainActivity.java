@@ -34,7 +34,7 @@ public class MainActivity extends ActionBarActivity {
         if (savedInstanceState == null) {
 
             /**
-             * TODO Add PhotoListFragment into R.id.container
+             * TODO TASK 2: Add PhotoListFragment into R.id.container
              *
              * http://developer.android.com/reference/android/app/FragmentTransaction.html
              *
@@ -52,7 +52,7 @@ public class MainActivity extends ActionBarActivity {
     private void addOrUpdateReceiverToAlarmManager() {
 
         /**
-         * TODO Add repeating alarm for our BroadcastReceiver "DailySelfieNotificationReceiver"
+         * TODO TASK 17: Add repeating alarm for our BroadcastReceiver "DailySelfieNotificationReceiver"
          *
          * Selfie Notification must showing every two minutes. Need to use TWO_MIN_IN_MILLIS as repeating interval
          * For more detail about repeating interval please read "Requirement #5" in "Lab-DailySelfie.pdf" file

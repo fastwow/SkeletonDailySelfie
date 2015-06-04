@@ -67,7 +67,7 @@ public class PhotoListFragment extends ListFragment implements
         String photoPath = getPhotoPath((Cursor) mAdapter.getItem(position));
         /**
          *
-         * TODO Create and show FullscreenPhotoDialogFragment with selected photo
+         * TODO TASK 10: Create and show FullscreenPhotoDialogFragment with selected photo on click
          *
          *  http://developer.android.com/reference/android/app/DialogFragment.html#show(android.app.FragmentTransaction, java.lang.String)
          *
@@ -78,7 +78,7 @@ public class PhotoListFragment extends ListFragment implements
     public Loader<Cursor> onCreateLoader(int arg0, Bundle arg1) {
 
         /**
-         * TODO Create new CursorLoader
+         * TODO TASK 3: Create new CursorLoader
          *
          * http://developer.android.com/reference/android/content/CursorLoader.html
          *
@@ -97,14 +97,14 @@ public class PhotoListFragment extends ListFragment implements
     public void onLoadFinished(Loader<Cursor> arg0, Cursor newCursor) {
 
         /**
-         * TODO Swap new cursor into adapter
+         * TODO TASK 4: Swap new cursor into adapter when loader finished
          *
          * http://developer.android.com/reference/android/widget/CursorAdapter.html#swapCursor(android.database.Cursor)
          */
 
         /**
          *
-         * TODO Set adapter for ListFragment
+         * TODO TASK 5: Set adapter for ListFragment
          *
          * http://developer.android.com/reference/android/app/ListFragment.html
          *
@@ -116,7 +116,7 @@ public class PhotoListFragment extends ListFragment implements
 
         /**
          *
-         * TODO Swap new cursor as null into adapter
+         * TODO TASK 6: Swap new cursor as null into adapter when loader reset
          */
     }
 
@@ -129,7 +129,8 @@ public class PhotoListFragment extends ListFragment implements
     private String getPhotoName(Cursor cursor) {
 
         /**
-         *  TODO get photo name from current cursor position
+         *  TODO TASK 7: get photo name from current cursor position
+         *
          *  Column's name is MediaStore.Images.Media.DATA
          *  You need implement this like in the above method "getPhotoPath"
          *
@@ -152,7 +153,7 @@ public class PhotoListFragment extends ListFragment implements
         public void bindView(View view, Context context, Cursor cursor) {
 
             /**
-             * TODO Load data from cursor into view
+             * TODO TASK 8: Load data from cursor into view
              *
              * For getting data use our getPhotoPath and getPhotoName methods
              *

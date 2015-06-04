@@ -12,7 +12,7 @@ public class DailySelfieNotificationReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
 
         /**
-         * TODO Create daily selfie notification
+         * TODO TASK 18: Create daily selfie notification
          *
          * http://developer.android.com/training/notify-user/build-notification.html
          */

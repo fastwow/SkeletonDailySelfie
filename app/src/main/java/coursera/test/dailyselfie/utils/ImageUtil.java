@@ -115,7 +115,8 @@ public class ImageUtil {
 	public void loadImage(String photoPath, ImageView imageView, int requestWidth, int requestHeight) {
 
 		/**
-		 * TODO Load and resize big image without OutOfMemory error
+		 * TODO TASK 9: Load and resize big image without OutOfMemory error
+		 *
 		 * http://developer.sonymobile.com/2011/06/27/how-to-scale-images-for-your-android-application/
 		 */
 	}
@@ -123,7 +124,7 @@ public class ImageUtil {
 	public void AddToGallery(Context context, String photoPath) {
 
 		/**
-		 * TODO Add photoPath to gallery
+		 * TODO TASK 1: Add photoPath to gallery
 		 * http://developer.android.com/training/camera/photobasics.html
 		 */
 	}
