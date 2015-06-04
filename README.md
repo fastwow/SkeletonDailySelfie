@@ -1,6 +1,18 @@
 SkeletonDailySelfie
 ========
 
+Project description
+--------
+
+[Pdf file and video][3]
+
+Import GitHub Android project
+--------
+
+[Tutorial for Android Studio][1]
+
+[Tutorial for Eclipse][2]
+
 Main tasks
 --------
 
@@ -69,11 +81,6 @@ Example
  */
 ```
 
-Import GitHub Android project
---------
-
-[Tutorial for Android Studio][1]
-[Tutorial for Eclipse][2]
-
 [1]: http://maxrohde.com/2014/08/18/import-github-project-to-android-studio/
 [2]: http://java.dzone.com/articles/android-%E2%80%93-import-projects-git
+[3]: https://github.com/aporter/coursera-android-labs/tree/master/DailySelfie/Lab8b-DailySelfie
