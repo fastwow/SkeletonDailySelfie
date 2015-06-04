@@ -11,8 +11,6 @@ Import GitHub Android project
 
 [Tutorial for Android Studio][1]
 
-[Tutorial for Eclipse][2]
-
 Main tasks
 --------
 
